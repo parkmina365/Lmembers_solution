@@ -1,5 +1,8 @@
 # Lmembers_solution3
 
+![image](https://user-images.githubusercontent.com/49267209/146729433-5b1d703e-9a7a-42a5-9b94-8314b4ab7c47.png)
+
+
 ## 구매감소 고객 예측기반 매출 관리 솔루션 
 
 ### 프로젝트 절차 
